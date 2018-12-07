@@ -1,0 +1,11 @@
+﻿  game.cpp
+c:\users\karen martin\source\repos\pathfinderfm\pathfinderfm\game.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\karen martin\source\repos\pathfinderfm\pathfinderfm\game.cpp(116): warning C4018: '<=': signed/unsigned mismatch
+c:\users\karen martin\source\repos\pathfinderfm\pathfinderfm\game.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\karen martin\source\repos\pathfinderfm\pathfinderfm\game.cpp(137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\karen martin\source\repos\pathfinderfm\pathfinderfm\game.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\karen martin\source\repos\pathfinderfm\pathfinderfm\game.cpp(161): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\karen martin\source\repos\pathfinderfm\pathfinderfm\game.cpp(395): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\karen martin\source\repos\pathfinderfm\pathfinderfm\game.cpp(396): warning C4018: '<': signed/unsigned mismatch
+  pathfinderFM.vcxproj -> C:\Users\Karen Martin\source\repos\pathfinderFM\Debug\pathfinderFM.exe
+  pathfinderFM.vcxproj -> C:\Users\Karen Martin\source\repos\pathfinderFM\Debug\pathfinderFM.pdb (Partial PDB)
